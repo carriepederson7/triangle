@@ -1,3 +1,7 @@
+//> triangle@1.0.0 test /Users/carrieschmid/Desktop/triangle
+// error-- ./node_modules/karma/bin/karma: No such file or directory
+// "karma start karma.conf.js"
+
 const webpackConfig = require('./webpack.config.js');
 
 module.exports = function(config) {
